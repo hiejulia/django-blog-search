@@ -8,6 +8,9 @@ A blog app implement Solr search engine
 
 ## Demos
 <img src="./demos/1.png">
-<img src="./demos/2.png">
+## Comments
 <img src="./demos/3.png">
+## Email sharing 
 <img src="./demos/4.png">
+## Solr search query
+<img src="./demos/2.png">
